@@ -1,0 +1,37 @@
+body{
+    background-image: url("imagenfondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;     
+}
+h1{
+    text-align: center;
+    color: rgb(62, 174, 10);
+}
+h2{
+    align-items: center;
+    color: rgb(212, 73, 23);
+}
+.title{       
+    width: 500px;
+    padding: "30px";
+    background-color: aqua; 
+    margin: 0;   
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding: 50px;
+    width: max-content;
+}
+.res{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: max-content;
+}
+.res output{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: max-content;
+}
